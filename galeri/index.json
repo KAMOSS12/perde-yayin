@@ -1,0 +1,71 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": "ebru-deniz-sali",
+   "name": "Ebru — deniz şalı",
+   "author": "Perde",
+   "description": "Mavi tonlarda girdaplı (şal) ebru; her gün yeni bir desen.",
+   "kind": "shader",
+   "file": "galeri/paketler/ebru-deniz-sali.perde",
+   "thumb": "galeri/kucuk/ebru-deniz-sali.jpg",
+   "size": 34220,
+   "sha256": "f47647cbf2b6e0f37deaa30b675d0d3b06882f68a7e52386b47734506d90a583"
+  },
+  {
+   "id": "kapadokya-gun-boyu",
+   "name": "Kapadokya — gün boyu balon",
+   "author": "Perde",
+   "description": "Balonlar yalnızca sabah değil, gün boyu uçar; akşam güneşi peri bacalarında.",
+   "kind": "shader",
+   "file": "galeri/paketler/kapadokya-gun-boyu.perde",
+   "thumb": "galeri/kucuk/kapadokya-gun-boyu.jpg",
+   "size": 21976,
+   "sha256": "455bfa4a8f95da886dd932242733efb2041ba4bf65256e329879b5f42ac5c1fd"
+  },
+  {
+   "id": "dag-koyu-dort-mevsim",
+   "name": "Dağ köyü — dört mevsim",
+   "author": "Perde",
+   "description": "Karlı köy, gerçek mevsimle yeşerir, sararır, karlanır.",
+   "kind": "shader",
+   "file": "galeri/paketler/dag-koyu-dort-mevsim.perde",
+   "thumb": "galeri/kucuk/dag-koyu-dort-mevsim.jpg",
+   "size": 20561,
+   "sha256": "a0719a4aa788cbbf4e38aec408aa8d2c7b3acf1d5ff576907b4249d8b500e1d3"
+  },
+  {
+   "id": "fener-firtinali-gece",
+   "name": "Deniz feneri — fırtınalı gece",
+   "author": "Perde",
+   "description": "Dalgalar yüksek, yağmur yağıyor, uzakta şimşek; fenerin ışını denizi tarıyor.",
+   "kind": "shader",
+   "file": "galeri/paketler/fener-firtinali-gece.perde",
+   "thumb": "galeri/kucuk/fener-firtinali-gece.jpg",
+   "size": 34856,
+   "sha256": "5604cf4dfd1fd37906abda331872a31e44c0d144ae51cabe8b25cfe9189f0331"
+  },
+  {
+   "id": "gol-yildizli-gece",
+   "name": "Göl — yıldızlı gece",
+   "author": "Perde",
+   "description": "Yıldızların suya yansıdığı sakin bir göl gecesi, ara sıra yıldız kayar.",
+   "kind": "shader",
+   "file": "galeri/paketler/gol-yildizli-gece.perde",
+   "thumb": "galeri/kucuk/gol-yildizli-gece.jpg",
+   "size": 11120,
+   "sha256": "6d18bfe4ac88480310d5f0fe35af3121272facd1062478426880a7d301679508"
+  },
+  {
+   "id": "sehir-mor-neon",
+   "name": "Yağmurlu şehir — mor neon",
+   "author": "Perde",
+   "description": "Mor ve turuncu neonlarla gece yağmuru.",
+   "kind": "shader",
+   "file": "galeri/paketler/sehir-mor-neon.perde",
+   "thumb": "galeri/kucuk/sehir-mor-neon.jpg",
+   "size": 31456,
+   "sha256": "7497ffe950865ed94c36033618d3f3c52d5b5c71767d8d034eea3d00295f2838"
+  }
+ ]
+}
